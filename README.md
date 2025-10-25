@@ -57,5 +57,3 @@ Theory-of-Everything-GO.POO-Foundation-Data/
 ### 🔬 Reproducibility and Verification
 
 This repository is dedicated to scientific transparency. The final numerical results provided here enable the direct **verification** of the paper's quantitative claims. For information on the original raw data sources (ATom and JPL DE440), please refer to the References section of the main letter.
-This repository is dedicated to scientific transparency. The final numerical results provided here enable the direct **verification** of the paper's quantitative claims. For information on the original raw data sources (ATom and JPL DE440), please refer to the References section of the main letter.
-The file `finals.all` (IERS reference data) must be placed in the same directory as the main code `time_dilation_high_precision.py`.
