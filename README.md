@@ -18,7 +18,7 @@ The files provided here include the detailed statistical summaries and data outp
 The following structure outlines the organization of the files and directories:
 
 ```
-Theory-of-Everything-GO.POO-Foundation-Data/
+Experimental-Verification-of-Emergent-Time-Data-RESULTS/
 |-- ATom1_results/
 |   |-- hafele_cumulative_high_precision.png/
 |   |-- hafele_points_high_precision.csv/
