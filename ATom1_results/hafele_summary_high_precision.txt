@@ -1,0 +1,8 @@
+{'total_elapsed_s': np.float64(2179650.0), 'elapsed_days': np.float64(25.227430555555557), 'cumulative_dt_s': np.float64(-0.021237250160059316), 'cumulative_dt_us_per_day': np.float64(-841.8316765669373), 'ephemeris': 'de440', 'residual_mean_fss': np.float64(-3.089121507144538e-10), 'residual_std_fss': np.float64(13642.194373590899)}
+
+--- Ephemeris metadata ---
+ephemeris: de440
+astropy version: 7.1.0
+computed_on_utc: 2025-10-24 13:48:00.507
+DEBUG_Raw_Start_Time: 1469802790.0000000000
+DEBUG_Raw_End_Time: 1471982440.0000000000
